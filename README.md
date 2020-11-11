@@ -1,1 +1,1 @@
-# django-graphql-example
+# django-rest-example
